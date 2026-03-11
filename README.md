@@ -1,0 +1,1 @@
+# exemplo_django_turma_2B_2026.1
